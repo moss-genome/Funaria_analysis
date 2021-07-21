@@ -22,6 +22,7 @@ We developed a list of repeats with coordinates using repeat modeler and then su
 2) Trim the GFF file to only 26 scaffolds (/archive/projects/EBP/Funaria_repeats/repeatmodeler/Funaria_Genome_Scaffold_mask/Funaria_26scaffolds.gff)
 3) Summary of types of repeats: 
 Proportion and number of unique: 
+
 |element |	number|	total |	proportion|
 -------------------------------------
 |copia 	 |67	    |495	  |0.135354   |
