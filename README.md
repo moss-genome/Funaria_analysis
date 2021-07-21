@@ -32,6 +32,8 @@ Proportion and number of unique:
 |helitron|15	    |495	  |0.030303   |
 
 |unknown |305	    |495	  |0.616162   |
+![image](https://user-images.githubusercontent.com/23173110/126549149-de54fca3-48f4-4d47-8e1c-ddde050e15fa.png)
+
 
 
 4) Summary of length of repeats:
