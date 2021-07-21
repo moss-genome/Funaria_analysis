@@ -1,0 +1,21 @@
+#!/bin/bash
+#SBATCH --job-name=entap
+#SBATCH --mail-user=vidya.vuruputoor@uconn.edu
+#SBATCH --mail-type=ALL
+#SBATCH -n 1
+#SBATCH -N 1
+#SBATCH -c 5
+#SBATCH --mem=40G
+#SBATCH -o entap_%j.out
+#SBATCH -e entap_%j.err
+#SBATCH --partition=general
+#SBATCH --qos=general
+
+module load anaconda/2.4.0
+module load perl/5.30.1
+module load diamond/0.9.25
+module load interproscan/5.25-64.0  
+
+#diamond makedb --in Physcomitrium_patens.Phypa_V3.pep.all.fa -d ppatens
+
+/labs/Wegrzyn/EnTAP/EnTAP_v0.10.7/EnTAP/EnTAP --ini entap_config_0.10.7.ini --runP -i /projects/EBP/Wegrzyn/Moss/Funaria/EnTAP_annotation/all/Funaria_hygrometrica.pep.fa -d /projects/EBP/Wegrzyn/Moss/Funaria_ENTAP_ppatens/entap_outfiles/bin/Physcomitrium_patens.dmnd  --threads 12
