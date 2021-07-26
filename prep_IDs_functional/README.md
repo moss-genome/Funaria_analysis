@@ -27,4 +27,15 @@
 
 **Final number:** 171 loci
 
+## Only gametophyte specific genes
 
+
+| Name | Number |
+| ----- | ----- |
+| Total number of genes | 37427 |
+| HG_DG_specifics | 1115 |
+| Arabidopsis proteins hits against HG_S_specifics | 775 |
+| BioMART hits STRINGdb vs. Arabidopsis | 25862 |
+| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 519 |
+
+**Final number:** 519 loci
