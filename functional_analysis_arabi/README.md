@@ -39,3 +39,16 @@
 | STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 519 |
 
 **Final number:** 519 loci
+
+## Only sporophyte specific genes
+
+| Name | Number |
+| ----- | ----- |
+| Total number of genes | 37427 |
+| HG_DG_specifics | 2126 |ˇ
+| Arabidopsis proteins hits against HG_S_specifics | 1282 |
+| BioMART hits STRINGdb vs. Arabidopsis | 25862 |
+| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 841 |
+
+**Final number:** 841 loci
+
