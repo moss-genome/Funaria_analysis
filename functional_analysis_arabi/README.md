@@ -72,7 +72,7 @@
 | DG_specifics | 736 |
 | Arabidopsis proteins hits against HG_S_specifics | 528 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
-| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 414 |
+| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 374 |
 
-**Final number:** 414 loci
+**Final number:** 374 loci
 
