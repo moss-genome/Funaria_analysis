@@ -20,7 +20,7 @@
 | Name | Number |
 | ----- | ----- |
 | Total number of genes | 37427 |
-| HG_S_specifics | 394 |
+| HG_specifics | 394 |
 | Arabidopsis proteins hits against HG_S_specifics | 240 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
 | STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 171 |
@@ -45,7 +45,7 @@
 | Name | Number |
 | ----- | ----- |
 | Total number of genes | 37427 |
-| HG_DG_specifics | 2126 |
+| S_specifics | 2126 |
 | Arabidopsis proteins hits against HG_S_specifics | 1282 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
 | STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 841 |
