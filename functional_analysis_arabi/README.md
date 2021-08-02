@@ -45,10 +45,22 @@
 | Name | Number |
 | ----- | ----- |
 | Total number of genes | 37427 |
-| HG_DG_specifics | 2126 |ˇ
+| HG_DG_specifics | 2126 |
 | Arabidopsis proteins hits against HG_S_specifics | 1282 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
 | STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 841 |
 
 **Final number:** 841 loci
+
+## Intersecton of sporophyte and diploid gametophyte
+
+| Name | Number |
+| ----- | ----- |
+| Total number of genes | 37427 |
+| HG_DG_specifics | 1617 |
+| Arabidopsis proteins hits against HG_S_specifics | 1066 |
+| BioMART hits STRINGdb vs. Arabidopsis | 25862 |
+| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 722 |
+
+**Final number:** 722 loci
 
