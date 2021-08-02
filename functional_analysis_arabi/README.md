@@ -57,10 +57,22 @@
 | Name | Number |
 | ----- | ----- |
 | Total number of genes | 37427 |
-| HG_DG_specifics | 1617 |
+| S_DG_specifics | 1617 |
 | Arabidopsis proteins hits against HG_S_specifics | 1066 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
 | STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 722 |
 
 **Final number:** 722 loci
+
+## Only diploid gametophyte
+
+| Name | Number |
+| ----- | ----- |
+| Total number of genes | 37427 |
+| DG_specifics | 736 |
+| Arabidopsis proteins hits against HG_S_specifics | 528 |
+| BioMART hits STRINGdb vs. Arabidopsis | 25862 |
+| STRINGdb hits with "Arabidopsis proteins hits against HG_S_specifics" | 414 |
+
+**Final number:** 414 loci
 
