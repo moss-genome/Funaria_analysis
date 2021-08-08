@@ -7,9 +7,8 @@
 
 
 
-
-| Total number of genes | 37427 |
 | ----- | ----- |
+| Total number of genes | 37427 |
 | HG_specifics | 395 |
 | Patens proteins hits against HG_specifics | 357 |
 | BioMART hits STRINGdb vs. Patens | 19564  |
