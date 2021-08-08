@@ -1,3 +1,4 @@
+| comparison | number of genes |
 | ----- | ----- |
 | Total number of genes | 37427 |
 | HG_S_specifics | 535 |
@@ -6,7 +7,7 @@
 | STRINGdb hits with "Patens proteins hits against HG_S_specifics" | 68 |
 
 
-
+| comparison | number of genes |
 | ----- | ----- |
 | Total number of genes | 37427 |
 | HG_specifics | 395 |
@@ -14,6 +15,7 @@
 | BioMART hits STRINGdb vs. Patens | 19564  |
 | STRINGdb hits with "Patens proteins hits against HG_specifics" | 56 |
 
+| comparison | number of genes |
 | ----- | ----- |
 | Total number of genes | 37427 |
 | HG_DG_specifics | 1116 |
@@ -21,6 +23,8 @@
 | BioMART hits STRINGdb vs. Patens | 19564  |
 | STRINGdb hits with "Patens proteins hits against HG_DG_specifics" | 158 |
 
+
+| comparison | number of genes |
 | ----- | ----- |
 | Total number of genes | 37427 |
 | DG_specifics | 737 |
@@ -29,6 +33,7 @@
 | STRINGdb hits with "Patens proteins hits against DG_specifics" | 190 |
 
 
+| comparison | number of genes |
 | ----- | ----- |
 | Total number of genes | 37427 |
 | DG_S_specifics | 1618 |
