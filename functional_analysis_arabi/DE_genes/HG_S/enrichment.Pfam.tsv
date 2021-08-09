@@ -1,0 +1,2 @@
+#term ID	term description	genes mapped	enrichment score	direction	false discovery rate	method	matching proteins in your input (IDs)	matching proteins in your input (labels)
+PF00188	Cysteine-rich secretory protein family	6	5.45553	top	0.00035	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT4G30320.1,3702.AT4G33720.1,3702.AT5G26130.1,3702.AT5G57625.1	AT1G50060,AT3G19690,AT4G30320,AT4G33720,AT5G26130,AT5G57625
