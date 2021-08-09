@@ -1,2 +1,2 @@
 #term ID	term description	genes mapped	enrichment score	direction	false discovery rate	method	matching proteins in your input (IDs)	matching proteins in your input (labels)
-SM00198	SCP / Tpx-1 / Ag5 / PR-1 / Sc7 family of extracellular domains.	3	7.21488	top	0.0047	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT5G26130.1	AT1G50060,AT3G19690,AT5G26130
+SM00198	SCP / Tpx-1 / Ag5 / PR-1 / Sc7 family of extracellular domains.	6	5.07014	top	0.0012	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT4G30320.1,3702.AT4G33720.1,3702.AT5G26130.1,3702.AT5G57625.1	AT1G50060,AT3G19690,AT4G30320,AT4G33720,AT5G26130,AT5G57625
