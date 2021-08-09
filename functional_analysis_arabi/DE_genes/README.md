@@ -14,3 +14,11 @@
 | Total HG_vs_DG genes | 1586 |
 | Hits against Arabidopsis | 1176 |
 | Genes that had a fold change | 597 |
+
+## Number of genes for HG_vs_S
+
+| Name | Count |
+| -- | -- |
+| Total HG_vs_DG genes | 7802 |
+| Hits against Arabidopsis | 6669 |
+| Genes that had a fold change | 2920 |
