@@ -32,8 +32,3 @@ Proportion and number of unique:
 
 
 ![image](https://user-images.githubusercontent.com/23173110/126549351-7f009977-e9b8-4247-9469-36663e880c16.png)
-
-
-
-
-Hi
