@@ -1,0 +1,5 @@
+#term ID	term description	genes mapped	enrichment score	direction	false discovery rate	method	matching proteins in your input (IDs)	matching proteins in your input (labels)
+IPR001283	Cysteine-rich  secretory protein-related	3	7.21488	top	0.0086	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT5G26130.1	AT1G50060,AT3G19690,AT5G26130
+IPR014044	CAP domain	3	7.21488	top	0.0086	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT5G26130.1	AT1G50060,AT3G19690,AT5G26130
+IPR034111	Pathogenesis-related protein 1-like, SCP domain	3	7.21488	top	0.0086	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT5G26130.1	AT1G50060,AT3G19690,AT5G26130
+IPR035940	CAP superfamily	3	7.21488	top	0.0086	afc	3702.AT1G50060.1,3702.AT3G19690.1,3702.AT5G26130.1	AT1G50060,AT3G19690,AT5G26130

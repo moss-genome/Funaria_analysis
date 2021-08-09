@@ -1,0 +1,10 @@
+#term ID	term description	observed gene count	background gene count	strength	false discovery rate	matching proteins in your network (IDs)	matching proteins in your network (labels)
+CL:31957	mixed, incl. Phenylpropanoid biosynthesis, and flavonoid biosynthetic process	7	150	0.87	0.0239	3702.AT2G37040.1,3702.AT2G40890.1,3702.AT2G41480.1,3702.AT4G05160.1,3702.AT4G09820.1,3702.AT5G13930.1,3702.AT5G64120.1	PAL1,CYP98A3,AT2G41480,AT4G05160,TT8,TT4,AT5G64120
+CL:31961	lignin metabolic process, and Phenylpropanoid metabolism	5	53	1.18	0.0239	3702.AT2G37040.1,3702.AT2G40890.1,3702.AT2G41480.1,3702.AT4G05160.1,3702.AT5G64120.1	PAL1,CYP98A3,AT2G41480,AT4G05160,AT5G64120
+CL:12706	Photosystem I, and photosystem II stabilization	4	39	1.22	0.0243	3702.AT1G06680.1,3702.AT1G31330.1,3702.AT3G61470.1,3702.AT4G10340.1	PSBP-1,PSAF,LHCA2,LHCB5
+CL:26904	mixed, incl. amine metabolic process, and Two-component regulatory system	7	162	0.84	0.0243	3702.AT1G23820.1,3702.AT1G27320.1,3702.AT1G66340.1,3702.AT2G20750.1,3702.AT4G01850.1,3702.AT4G28250.1,3702.AT5G03280.1	SPDS1,HK3,ETR1,EXPB1,SAM-2,EXPB3,EIN2
+CL:27197	mixed, incl. Major pollen allergen Lol pI, and Methylation	3	12	1.6	0.0243	3702.AT2G20750.1,3702.AT4G01850.1,3702.AT4G28250.1	EXPB1,SAM-2,EXPB3
+CL:31963	lignin biosynthetic process, and Phenylpropanoid metabolism	4	46	1.14	0.0243	3702.AT2G37040.1,3702.AT2G40890.1,3702.AT4G05160.1,3702.AT5G64120.1	PAL1,CYP98A3,AT4G05160,AT5G64120
+CL:4884	mixed, incl. THO complex part of transcription export complex, and exon-exon junction complex	3	17	1.45	0.0243	3702.AT1G51510.1,3702.AT5G09860.1,3702.AT5G16790.1	Y14,THO1,THO7A
+CL:12707	photosystem I, and photosystem II stabilization	3	26	1.27	0.0428	3702.AT1G06680.1,3702.AT1G31330.1,3702.AT3G61470.1	PSBP-1,PSAF,LHCA2
+CL:26918	mixed, incl. Ethylene-insensitive protein 2, and regulation of stem cell division	2	5	1.81	0.0428	3702.AT1G66340.1,3702.AT5G03280.1	ETR1,EIN2
