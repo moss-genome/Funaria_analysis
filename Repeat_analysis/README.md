@@ -30,5 +30,21 @@ HG Specifics only
 | Inside LTR sliding window | 95  |
 | Proportion | .27 |
 
+S Specifics Only 
 
+| Gene Type | number of genes |
+| ----- | ----- |
+| Total number of genes | 1802 |
+| Inside LTR sliding window | 798 |
+| Proportion | .44 |
+
+
+
+all genes
+
+| Gene Type | number of genes |
+| ----- | ----- |
+| Total number of genes | 23058 |
+| Inside LTR sliding window | 11231 |
+| Proportion | .48 |
 
