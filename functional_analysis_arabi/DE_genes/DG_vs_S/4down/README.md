@@ -3,7 +3,7 @@
 | Name | Number |
 | ----- | ----- |
 | Total number of genes | 37427 |
-| DG_S_above4_up | 2126 |
-| Arabidopsis proteins hits | 1514 |
+| DG_S_above4_down | 947 |
+| Arabidopsis proteins hits | 816 |
 | BioMART hits STRINGdb vs. Arabidopsis | 25862 |
-| STRINGdb hits | 961 |
+| STRINGdb hits | 523 |
