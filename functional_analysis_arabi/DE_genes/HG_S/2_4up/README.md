@@ -1,4 +1,4 @@
-## Above 2 to 4 fold up regulated
+## 2 to 4 fold up regulated
 
 | Name | Number |
 | ----- | ----- |
