@@ -11,8 +11,8 @@ HG and S specifics only (uniquely silenced in aposporous)
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 535 |
-| Inside LTR sliding window | 481 |
-| Proportion | .22 |
+| Inside LTR sliding window | 183 |
+| Proportion | .34 |
 
 DG specifics only
 
@@ -36,7 +36,7 @@ S Specifics Only
 | ----- | ----- |
 | Total number of genes | 2127 |
 | Inside LTR sliding window | 798 |
-| Proportion | .44 |
+| Proportion | .37 |
 
 HG DG Specifics Only 
 
