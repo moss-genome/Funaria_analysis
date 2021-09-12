@@ -19,16 +19,16 @@ DG specifics only
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 737 |
-| Inside LTR sliding window | 206 |
-| Proportion | .31 |
+| Inside LTR sliding window | 415 |
+| Proportion | .56 |
 
 HG Specifics only
 
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 395 |
-| Inside LTR sliding window | 95  |
-| Proportion | .27 |
+| Inside LTR sliding window | 185  |
+| Proportion | .46 |
 
 S Specifics Only 
 
@@ -43,16 +43,16 @@ HG DG Specifics Only
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 1116 |
-| Inside LTR sliding window |  |
-| Proportion |  |
+| Inside LTR sliding window | 414 |
+| Proportion | .37 |
 
 S DG Specifics Only 
 
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 1618 |
-| Inside LTR sliding window |  |
-| Proportion |  |
+| Inside LTR sliding window | 763 |
+| Proportion | .47  |
 
 
 all genes
