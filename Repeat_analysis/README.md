@@ -62,4 +62,3 @@ all genes
 | Total number of genes | 37426 |
 | Inside LTR sliding window | 4544 |
 | Proportion | .12 |
-
