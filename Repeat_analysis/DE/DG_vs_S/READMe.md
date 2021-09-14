@@ -6,29 +6,29 @@
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 1372 |
-| Inside LTR sliding window | 266 |
-| Proportion | 0.19 |
+| Inside LTR sliding window | 344 |
+| Proportion | .25 |
 
 2-4 up regulation
 
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 2056 |
-| Inside LTR sliding window | 536 |
-| Proportion | 0.26 |
+| Inside LTR sliding window | 554 |
+| Proportion | .26 |
 
 above 4 fold down  regulation
 
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 947 |
-| Inside LTR sliding window | 219 |
-| Proportion | 0.23 |
+| Inside LTR sliding window | 273 |
+| Proportion | .28 |
 
 above 4 fold up regulation
 
 | Gene Type | number of genes |
 | ----- | ----- |
 | Total number of genes | 2126 |
-| Inside LTR sliding window | 630 |
-| Proportion | 0.29 | 
+| Inside LTR sliding window | 655 |
+| Proportion | .30 | 
