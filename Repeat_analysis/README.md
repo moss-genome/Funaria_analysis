@@ -12,8 +12,9 @@ HG and S specifics only (uniquely silenced in aposporous)
 | ----- | ----- |
 | Total number of genes | 535 |
 | Inside LTR sliding window | 183 |
-| Upstream only | 103 |
 | Proportion | .34 |
+| Upstream | 103 |
+
 
 DG specifics only
 
@@ -21,8 +22,9 @@ DG specifics only
 | ----- | ----- |
 | Total number of genes | 737 |
 | Inside LTR sliding window | 415 |
-| Upstream | 292 |
 | Proportion | .56 |
+| Upstream | 292 |
+
 
 HG Specifics only
 
@@ -30,8 +32,9 @@ HG Specifics only
 | ----- | ----- |
 | Total number of genes | 395 |
 | Inside LTR sliding window | 185 |
-| Upstream | 120 |
 | Proportion | .46 |
+| Upstream | 120 |
+
 
 
 S Specifics Only 
@@ -40,8 +43,9 @@ S Specifics Only
 | ----- | ----- |
 | Total number of genes | 2127 |
 | Inside LTR sliding window | 798 |
-| Upstream | 483 |
 | Proportion | .37 |
+| Upstream | 483 |
+
 
 HG DG Specifics Only 
 
@@ -49,8 +53,9 @@ HG DG Specifics Only
 | ----- | ----- |
 | Total number of genes | 1116 |
 | Inside LTR sliding window | 414 |
-| Upstream | 264 |
 | Proportion | .37 |
+| Upstream | 264 |
+
 
 S DG Specifics Only 
 
@@ -69,3 +74,5 @@ all genes
 | Total number of genes | 37426 |
 | Inside LTR sliding window | 4544 |
 | Proportion | .12 |
+| Upstream | 3209 |
+
