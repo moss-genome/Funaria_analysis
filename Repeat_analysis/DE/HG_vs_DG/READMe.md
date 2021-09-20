@@ -7,6 +7,7 @@
 | ----- | ----- |
 | Total number of genes | 578 |
 | Inside LTR sliding window | 192 |
+| Upstream | 128 |
 | Proportion | 0.33 |
 
 2-4 up regulation
@@ -15,6 +16,7 @@
 | ----- | ----- |
 | Total number of genes | 655 |
 | Inside LTR sliding window | 206 |
+| Upstream | 142 |
 | Proportion | 0.31 |
 
 above 4 fold down regulation
@@ -23,6 +25,7 @@ above 4 fold down regulation
 | ----- | ----- |
 | Total number of genes | 130 |
 | Inside LTR sliding window | 53 |
+| Upstream | 29 |
 | Proportion | 0.4 |
 
 above 4 fold up regulation
@@ -31,4 +34,5 @@ above 4 fold up regulation
 | ----- | ----- |
 | Total number of genes | 225 |
 | Inside LTR sliding window | 125 |
+| Upstream | 95 |
 | Proportion | 0.55 | 
