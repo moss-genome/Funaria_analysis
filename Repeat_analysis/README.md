@@ -26,7 +26,7 @@ DG specifics only
 
 HG Specifics only
 
-| Gene Type | number of genes |
+| Gene Type | number of genes | Proportion |
 | ----- | ----- |
 | Total number of genes | 395 |
 | Inside LTR sliding window | 185 | .46 |
