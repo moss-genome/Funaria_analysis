@@ -73,10 +73,9 @@ all genes
 
 all genes trimmed
 
-| Gene Type | number of genes |
+| Gene Type | number of genes | Proportion |
 | ----- | ----- |----- |
-| Total number of genes | 37426 |
-| Inside LTR sliding window |  |
-| Proportion |  |
-| Upstream |  |
+| Total number of genes | 36415 |
+| Inside LTR sliding window | 11920  | .3 |
+| Upstream | 3204 | .26 |
 
