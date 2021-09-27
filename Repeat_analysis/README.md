@@ -79,3 +79,7 @@ all genes trimmed
 | Inside LTR sliding window | 11920  | .3 |
 | Upstream | 3204 | .26 |
 
+
+
+
+Relationship of tandem repeats to LTRs [here](https://docs.google.com/spreadsheets/d/13Uec76Gr2Zf9tK7TeHuJl7CCYGI9sba4/edit#gid=814819421)
