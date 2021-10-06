@@ -1,8 +1,4 @@
-| Gene Type | number of genes | Proportion |
-| ----- | ----- | ----- |
-| Total number of genes |  |
-| Inside LTR sliding window |  |  |
-| Upstream |  |  |
+
 
 
 DG specifics only
