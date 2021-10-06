@@ -1,70 +1,63 @@
 | Gene Type | number of genes | Proportion |
 | ----- | ----- | ----- |
-| Total number of genes | 535 |
-| Inside LTR sliding window | 183 | .34 |
-| Upstream | 103 | .56 |
+| Total number of genes |  |
+| Inside LTR sliding window |  |  |
+| Upstream |  |  |
 
 
 DG specifics only
 
 | Gene Type | number of genes | Proportion |
 | ----- | ----- | ----- |
-| Total number of genes | 737 |
-| Inside LTR sliding window | 415 | .56 |
-| Upstream | 292 | .703 |
+| Total number of genes | 6 |
+| Inside LTR sliding window | 2 | .3 |
+| Upstream | 2 | 1 |
 
 
 HG Specifics only
 
 | Gene Type | number of genes | Proportion |
 | ----- | ----- |----- |
-| Total number of genes | 395 |
-| Inside LTR sliding window | 185 | .46 |
-| Upstream | 120 | .64 |
+| Total number of genes | 18 |
+| Inside LTR sliding window | 12 | .6  |
+| Upstream | 9 | .75 |
 
 
 
-S Specifics Only 
-
-| Gene Type | number of genes | Proportion |
-| ----- | ----- | ----- |
-| Total number of genes | 2127 |
-| Inside LTR sliding window | 798 | .37 |
-| Upstream | 483 | .605|
-
-
-HG DG Specifics Only 
+HG S Specifics Only 
 
 | Gene Type | number of genes | Proportion |
 | ----- | ----- | ----- |
-| Total number of genes | 1116 |
-| Inside LTR sliding window | 414 | .37 |
-| Upstream | 264 | .63 |
+| Total number of genes | 38 |
+| Inside LTR sliding window | 11 | .28 |
+| Upstream | 7 | .63 |
 
 
 S DG Specifics Only 
 
 | Gene Type | number of genes | Proportion |
 | ----- | ----- | ----- |
-| Total number of genes | 1618 |
-| Inside LTR sliding window | 763 | .47 |
-| Upstream | 472 | .61 |
+| Total number of genes | 6 |
+| Inside LTR sliding window | 4 | .6 |
+| Upstream | 4 | 1 |
+
+HG DG Specifics Only 
+
+| Gene Type | number of genes | Proportion |
+| ----- | ----- | ----- |
+| Total number of genes | 36 |
+| Inside LTR sliding window | 15 | .41 |
+| Upstream | 9 | .6 |
 
 
 all genes
 
 | Gene Type | number of genes | Proportion |
 | ----- | ----- |----- |
-| Total number of genes | 37426 |
-| Inside LTR sliding window | 4544 | .12 |
-| Upstream | 3209 | .706 |
+| Total number of genes | 378 |
+| Inside LTR sliding window | 187 | .49 |
+| Upstream | 137 | .73 |
 
 
 
-all genes trimmed
 
-| Gene Type | number of genes | Proportion |
-| ----- | ----- |----- |
-| Total number of genes | 36415 |
-| Inside LTR sliding window | 11920  | .3 |
-| Upstream | 3204 | .26 |
