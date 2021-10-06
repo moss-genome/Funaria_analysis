@@ -1,5 +1,10 @@
 # Assessing tandem genes in the chromosomes
 
+Procedure:
+
+1. Clustered genes in each scaffold using usearch, with a percentage identity of 98%
+2. We strictly followed the definition of tandem gene arrays: A DNA structure in which a gene and associated sequences are repeated in an immediately adjacent position: This resulted in a total number of tandem genes, tandem_genes.txt.
+3. Based off of our lists of genes that were either uniquely or differentially expressed, I created two scripts, makegff.sh and makegff_tandem_gff.sh that created gff files for each gene that is in a gene cluster, and is uniquely expressed, or differentially expressed.
 
 Description | Number
 -- | --
