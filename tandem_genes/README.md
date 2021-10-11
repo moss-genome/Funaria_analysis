@@ -48,8 +48,8 @@ above4fold_upregulated | 2 | 0.53 | 1 | 0.81 | 1 (41)
 
 **For HG_vs_S**
 
-Description | Number
--- | --
+Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
+-- | -- | -- | -- | -- | --
 2_4_downregulated | 19 | 5.02 | 14 | 11.38 | 7 (10,20,35,92,96,101,106)
 2_4_upregulated | 8 | 2.11 | 7 | 5.7 | 3 (28, 36, 114)
 above4fold_downregulated | 21 | 5.56 | 11 | 8.94 | 9 (17,19,42,72,80,100,102,113,123)
