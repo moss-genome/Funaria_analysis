@@ -21,9 +21,9 @@ Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More
 -- | -- | -- | -- | -- | --
 DG_specifics | 6 | 1.6 | 4 | 3.17 | 2 (77, 113)
 HG_DG_specifics | 29 | 7.67 | 15 | 12.19 | 13 (1,2,4,5,6,7,19,21,75,80,100,102,123)
-HG_S_specifics | 19 | 5.03 | 13 | 6 (4,5,6,7,78,114)
-HG_specifics | 16 | 4.23 | 11 | 5 (4,5,6,7,55)
-S_DG_specifics | 6 | 1.6 | 4 | 2 (65, 98)
+HG_S_specifics | 19 | 5.03 | 13 | 10.57 | 6 (4,5,6,7,78,114)
+HG_specifics | 16 | 4.23 | 11 | 8.94 | 5 (4,5,6,7,55)
+S_DG_specifics | 6 | 1.6 | 4 | 3.25 | 2 (65, 98)
 S_specifics | 18 | 4.76 | 12 | 9.75 | 7 (2,4,5,6,7, 28, 112) 
 
 ## Counting the differentially expressed genes and that are in gene clusters
