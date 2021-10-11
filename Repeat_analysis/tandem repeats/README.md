@@ -43,11 +43,11 @@ Inside 1 Kb LTR sliding window copia upstream only
 | Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
 | ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | 0.3 |
-| HG | 18 |  |  |
+| HG | 18 | 1 |.05  |
 | HG_S | 38 | 0 | 0 |
-| S_DG | 6 | |  |
-| HG_DG | 36 |  |  |
-| all_genes | 378 |  |  |
+| S_DG | 6 | 3 | 0.5 |
+| HG_DG | 36 | 1 | .03  |
+| all_genes | 378 | 67 | .17  |
 
 
 
