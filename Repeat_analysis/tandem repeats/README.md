@@ -50,16 +50,28 @@ Inside 1 Kb LTR sliding window copia upstream only
 | all_genes | 378 | 67 | .17  |
 
 
-Inside 1 Kb LTR sliding window copia upstream 250 bp and gene body
+Inside LTR sliding window copia upstream 250 bp and gene body
 
 | Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
 | ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | 0.3 |
 | HG | 18 | 1 |.05  |
 | HG_S | 38 | 0 | 0 |
-| S_DG | 6 |  | 0.5 |
+| S_DG | 6 | 3 | 0.5 |
 | HG_DG | 36 | 0 | 0  |
 | all_genes | 378 | 10 | .026  |
+
+
+Inside LTR (all) sliding window upstream 250 bp and gene body
+
+| Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
+| ----- | ----- | ----- | ----- |
+| DG | 6 | 2 | 0.3 |
+| HG | 18 | 5 | 0.27  |
+| HG_S | 38 | 12 | .31 |
+| S_DG | 6 | 4 | .66 |
+| HG_DG | 36 | 4 | .11  |
+| all_genes | 378 | 100 | .26  |
 
 
 
