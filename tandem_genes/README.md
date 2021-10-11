@@ -17,6 +17,8 @@ and then performing usearch on the individual scaffolds.
 
 ## Counting the genes that are uniquely expressed and that are in gene clusters
 
+**Numbers in the 'more than two genes expressed column' refer to the array_gene_list file
+
 Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
 -- | -- | -- | -- | -- | --
 DG_specifics | 6 | 1.6 | 4 | 3.17 | 2 (77, 113)
