@@ -20,7 +20,7 @@ and then performing usearch on the individual scaffolds.
 Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
 -- | -- | -- | -- | -- | --
 DG_specifics | 6 | 1.6 | 4 | 3.17 | 2 (77, 113)
-HG_DG_specifics | 29 | 7.67 | 14 (2, 6, 1, 4, 7, 5, 51, 75, 80, 102, 100, 123, 21 , 19)
+HG_DG_specifics | 29 | 7.67 | 15 | 12.19 | 13 (1,2,4,5,6,7,19,21,75,80,100,102,123)
 HG_S_specifics | 19 | 5.03 | 13 | 6 (4,5,6,7,78,114)
 HG_specifics | 16 | 4.23 | 11 | 5 (4,5,6,7,55)
 S_DG_specifics | 6 | 1.6 | 4 | 2 (65, 98)
