@@ -4,7 +4,7 @@ Inside 1 Kb LTR sliding window
 
 
 | Gene Type | total number of tandem genes | number inside LTR window | Proportion |
-| ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | .3 |
 | HG | 18 | 12 | 0.6 |
 | HG_S | 38 | 11 | 0.28 |
@@ -17,7 +17,7 @@ Inside 1 Kb LTR sliding window
 Inside 1 Kb LTR sliding window Upstream only
 
 | Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
-| ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | 0.3 |
 | HG | 18 | 9 | 0.5 |
 | HG_S | 38 | 7 | 0.18 |
@@ -29,7 +29,7 @@ Inside 1 Kb LTR sliding window Upstream only
 Inside 1 Kb LTR sliding window copia only
 
 | Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
-| ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | 0.3 |
 | HG | 18 | 4 | 0.22 |
 | HG_S | 38 | 3 | 0.07 |
@@ -41,13 +41,13 @@ Inside 1 Kb LTR sliding window copia only
 Inside 1 Kb LTR sliding window copia upstream only
 
 | Gene Type | total number of tandem genes | number inside LTR window Upstream | Proportion |
-| ----- | ----- | ----- |
+| ----- | ----- | ----- | ----- |
 | DG | 6 | 2 | 0.3 |
-| HG | 18 | 4 | 0.22 |
-| HG_S | 38 | 3 | 0.07 |
-| S_DG | 6 | 4 | 0.66 |
-| HG_DG | 36 | 4 | 0.11 |
-| all_genes | 378 | 67 | 0.17 |
+| HG | 18 |  |  |
+| HG_S | 38 | 0 | 0 |
+| S_DG | 6 | |  |
+| HG_DG | 36 |  |  |
+| all_genes | 378 |  |  |
 
 
 
