@@ -21,12 +21,12 @@ and then performing usearch on the individual scaffolds.
 
 Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
 -- | -- | -- | -- | -- | --
-DG_specifics | 6 | 1.6 | 4 | 3.17 | 2 (77, 113)
-HG_DG_specifics | 29 | 7.67 | 15 | 12.19 | 13 (1,2,4,5,6,7,19,21,75,80,100,102,123)
-HG_S_specifics | 19 | 5.03 | 13 | 10.57 | 6 (4,5,6,7,78,114)
-HG_specifics | 16 | 4.23 | 11 | 8.94 | 5 (4,5,6,7,55)
-S_DG_specifics | 6 | 1.6 | 4 | 3.25 | 2 (65, 98)
-S_specifics | 18 | 4.76 | 12 | 9.75 | 7 (2,4,5,6,7, 28, 112) 
+DG_specifics | 6 | 0.81 | 4 | 3.17 | 2 (77, 113)
+HG_DG_specifics | 29 | 2.6 | 15 | 12.19 | 13 (1,2,4,5,6,7,19,21,75,80,100,102,123)
+HG_S_specifics | 19 | 3.6 | 13 | 10.57 | 6 (4,5,6,7,78,114)
+HG_specifics | 16 | 4.6 | 11 | 8.94 | 5 (4,5,6,7,55)
+S_DG_specifics | 6 | 0.37 | 4 | 3.25 | 2 (65, 98)
+S_specifics | 18 | 8.47 | 12 | 9.75 | 7 (2,4,5,6,7, 28, 112) 
 
 ## Counting the differentially expressed genes and that are in gene clusters
 
