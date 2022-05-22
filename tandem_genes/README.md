@@ -8,51 +8,49 @@ Procedure:
 
 Description | Number
 -- | --
-Total number of genes | 37426
+Total number of genes | 30494
 Total number of tandem genes* | 378
-Total number of arrays | 123
+% of tandem genes | 0.012
 
 * This is by first dividing the genome into 26 scaffolds (chromosomes), 
 and then performing usearch on the individual scaffolds.
 
 ## Counting the genes that are uniquely expressed and that are in gene clusters
 
-**Numbers in the 'more than two genes expressed column' refer to the array_gene_list file
-
-Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
--- | -- | -- | -- | -- | --
-DG_specifics | 6 | 1.6 | 4 | 3.17 | 2 (77, 113)
-HG_DG_specifics | 29 | 7.67 | 15 | 12.19 | 13 (1,2,4,5,6,7,19,21,75,80,100,102,123)
-HG_S_specifics | 19 | 5.03 | 13 | 10.57 | 6 (4,5,6,7,78,114)
-HG_specifics | 16 | 4.23 | 11 | 8.94 | 5 (4,5,6,7,55)
-S_DG_specifics | 6 | 1.6 | 4 | 3.25 | 2 (65, 98)
-S_specifics | 18 | 4.76 | 12 | 9.75 | 7 (2,4,5,6,7, 28, 112) 
+Description | Number of genes | Total no. of genes | (%) genes 
+-- | -- | -- | -- 
+DG_specifics | 15 | 621 | 0.024 
+HG_DG_specifics | 50 | 913 | 0.055 
+HG_S_specifics | 13 | 523 | 0.025
+HG_specifics | 11 | 330 | 0.034 
+S_DG_specifics | 16 | 1552 | 0.01 
+S_specifics | 27 | 2081 | 0.013 
 
 ## Counting the differentially expressed genes and that are in gene clusters
 
 **For DG_vs_S**
 
-Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
--- | -- | -- | -- | -- | --
-2_4_downregulated | 8 | 2.11 | 7 | 5.7 | 3 (71, 96, 123)   
-2_4_upregulated | 5 | 1.32 | 4 | 3.25 | 1 (7)
-above4fold_downregulated | 19 | 5.02 | 13 | 10.57 | 7 (19, 41, 72, 75, 80, 102, 113)
-above4fold_upregulated | 8 | 2.11 | 7 | 5.7 | 3 (22, 36, 114) 
+Description | Number of genes | Total no. of genes | (%) genes
+-- | -- | -- | -- 
+2_4_downregulated | 27 | 1781 | 0.015
+2_4_upregulated | 25 | 1207 | 0.021
+above4fold_downregulated | 25 | 1207 | 0.021
+above4fold_upregulated |  17 | 855 | 0.02
 
 **For HG_vs_DG**
 
-Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
--- | -- | -- | -- | -- | --
-2_4_downregulated | 8 | 2.11 | 7 | 5.7 | 3 (20, 36, 123)
-2_4_upregulated | 2 | 0.53 | 1 | 0.81 | 1 (2)
-above4fold_downregulated | 2 | 0.53 | 1 | 0.81 | 1 (22)
-above4fold_upregulated | 2 | 0.53 | 1 | 0.81 | 1 (41)
+Description | Number of genes | Total no. of genes | (%) genes 
+-- | -- | -- | -- 
+2_4_downregulated | 17 | 501 | 0.034
+2_4_upregulated | 17 | 515 | 0.033
+above4fold_downregulated | 3 | 100 | 0.03
+above4fold_upregulated | 6 | 194 | 0.031
 
 **For HG_vs_S**
 
-Description | Number of genes | (%) genes | Number of arrays | (%) arrays | More than two genes expressed in array
--- | -- | -- | -- | -- | --
-2_4_downregulated | 19 | 5.02 | 14 | 11.38 | 7 (10,20,35,92,96,101,106)
-2_4_upregulated | 8 | 2.11 | 7 | 5.7 | 3 (28, 36, 114)
-above4fold_downregulated | 21 | 5.56 | 11 | 8.94 | 9 (17,19,42,72,80,100,102,113,123)
-above4fold_upregulated | 4 | 1.06 | 3 | 2.44 | 1 (49) 
+Description | Number of genes | Total no. of genes | (%) genes | 
+-- | -- | -- | -- 
+2_4_downregulated | 26 | 1785 | 0.015
+2_4_upregulated | 31 | 2496 | 0.013
+above4fold_downregulated | 17 | 743 | 0.023
+above4fold_upregulated | 25 | 1805 | 0.014

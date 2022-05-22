@@ -4,6 +4,55 @@ Repeat analysis of Funaria genome to identify LTRs (gypsy, copia, helitron, and 
 2) GFF3 used Directory: /archive/projects/EBP/Funaria_repeats/repeatmodeler/Funaria_Genome_Scaffold_mask/Funaria_26scaffolds_LTR.gff which is the repeatmodeler output trimmed to only 26 scaffolds. 
 3) Used bedtools sliding window default (1000 bp in either direction) to assess where genes are relative to repeat regions. 
 
+
+
+
+Inside 1 Kb LTR sliding window
+
+
+| Gene Type | total number of tandem genes | number inside LTR window | Proportion |
+| ----- | ----- | ----- | ----- |
+| DG | 737 | 415 | .56  |
+| HG | 395 | 185 | .46  |
+| HG_S | 535 | 183 | .34  |
+| S_DG | 1618 | 763 | .47 |
+| HG_DG | 1116 | 414 | .37 |
+| S | 2127 | 798 | .37 |
+| all_genes | 36415 | 11920 | .32 |
+
+
+
+Inside 1 Kb LTR sliding window Upstream Only
+
+
+| Gene Type | total number of tandem genes | number inside LTR window | Proportion |
+| ----- | ----- | ----- | ----- |
+| DG | 737 | 292 | .396  |
+| HG | 395 | 120 | .303  |
+| HG_S | 535 | 103 | .19 |
+| S_DG | 1618 | 472 | .29 |
+| HG_DG | 1116 | 414 | .37  |
+| S | 2127 | 483 | .227 |
+| all_genes | 36415 | 3204 | .08  |
+
+
+
+Inside 1 Kb LTR sliding window copia only
+
+
+| Gene Type | total number of tandem genes | number inside LTR window | Proportion |
+| ----- | ----- | ----- | ----- |
+| DG | 737 |  |   |
+| HG | 395 |  |   |
+| HG_S | 535 |  |  |
+| S_DG | 1618 |  |  |
+| HG_DG | 1116 |  |   |
+| S | 2127 |  |  |
+| all_genes | 36415 |  |   |
+
+
+
+
 Sliding window results for 1kb up and downstream of LTRS
 
 HG and S specifics only (uniquely silenced in aposporous)
