@@ -19,6 +19,8 @@ Name | Total number of genes | Genes close to an LTR (1kb) | Genes with GO term 
 4 downregulated | 1750 | 163 | 163 | 28 | 13 
 4 upregulated | 854 | 314 | 314 | 64 | 15
 
+downregulated | 2060 | 355 | 355 |  
+
 ## HG vs DG
 Name | Total number of genes | Genes close to an LTR (1kb) | Genes with GO term | GO-enriched genes-BP | GO-enriched genes-MF
 -- | -- | -- | -- | -- | --
